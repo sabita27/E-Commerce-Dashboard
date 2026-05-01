@@ -4,90 +4,124 @@
 
 The **E-Commerce Sales Dashboard** is an interactive Business Intelligence project developed using **Power BI** to analyze and visualize E-Commerce business performance.
 
-This dashboard transforms raw business data into meaningful insights, enabling better decision-making through dynamic visualizations and analytical reporting.
+This dashboard transforms raw business data into meaningful insights, enabling organizations to make data-driven decisions through dynamic visualizations and analytical reporting.
 
-The project focuses on monitoring:
+The project focuses on:
 
-* Sales performance
-* Customer purchasing behavior
-* Inventory analysis
-* Marketing campaign effectiveness
-* Business growth trends
+* Sales Performance Analysis
+* Customer Behavior Insights
+* Product & Inventory Monitoring
+* Employee Performance Tracking
+* Marketing & Revenue Analytics
 
 ---
 
-## Key Features
+# Key Features
 
-* Interactive and user-friendly Power BI dashboard
+* Interactive and user-friendly dashboard interface
 * Real-time sales and revenue analysis
-* Customer segmentation and behavior insights
-* Product and inventory performance tracking
-* Marketing analytics and campaign evaluation
+* Customer purchasing behavior insights
+* Product performance monitoring
+* Employee and manager performance tracking
 * Dynamic filtering and drill-down reporting
-* Clean and responsive data visualizations
+* Advanced data visualization and analytics
+* Business KPI tracking and reporting
 
 ---
 
-## Dashboard Insights
+# Dashboard Modules
 
-### Sales Analysis
+## Overview Dashboard
 
-* Monthly and yearly sales trends
-* Top-performing products and categories
-* Revenue growth tracking
+* Total Revenue Analysis
+* Total Orders Tracking
+* Quantity Monitoring
+* Revenue Growth Insights
 
-### Customer Analytics
+## Sales Dashboard
 
-* Customer purchase behavior analysis
-* Region-wise customer distribution
-* Repeat customer insights
+* Revenue vs Target Analysis
+* Profit vs Target Analysis
+* Top Customer Insights
+* Country-wise Revenue Analysis
 
-### Inventory Management
+## Product Dashboard
 
-* Stock monitoring and inventory optimization
-* Product availability tracking
-* High-demand product identification
+* Top & Bottom Products by Revenue
+* Product Category Return Analysis
+* Order Distribution by Subcategory
+* Channel-wise Profit Analysis
 
-### Marketing Performance
+## Employee Dashboard
 
-* Campaign performance analysis
-* Conversion and engagement tracking
-* Business growth evaluation
-
----
-
-## Technologies Used
-
-* **Power BI**
-* **Microsoft Excel**
-* **Data Analytics**
-* **Business Intelligence**
-* **Data Visualization**
+* Top Supervisors by Revenue
+* Salesperson Order Analysis
+* Manager-wise Return Analysis
+* Revenue Distribution by Channel
 
 ---
 
-## Project Files Included
+# Technologies Used
+
+* Power BI
+* Microsoft Excel
+* Data Analytics
+* Business Intelligence
+* Data Visualization
+
+---
+
+# Project Files Included
 
 * Power BI Dashboard File (`.pbix`)
-* Dataset File (`.xlsx / .csv`)
+* Dataset File (`.xlsx`)
 * Dashboard Screenshots
 * Project Documentation
 
 ---
 
-## Learning Outcomes
+# Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
 * Data cleaning and transformation
-* Dashboard design and visualization
+* Dashboard development using Power BI
 * Business Intelligence reporting
-* KPI analysis and reporting
-* Interactive report development using Power BI
+* KPI analysis and visualization
+* Interactive reporting and filtering
+* Data-driven decision making
 
 ---
 
-## Author
+# Dashboard Screenshots
 
-**Sabita Sau**
- Aspiring Data Analyst & Full Stack Developer
+## Overview Dashboard
+
+![Overview Dashboard](overview-dashboard.png)
+
+---
+
+## Sales Dashboard
+
+![Sales Dashboard](sales-dashboard.png)
+
+---
+
+## Product Dashboard
+
+![Product Dashboard](product-dashboard.png)
+
+---
+
+## Employee Dashboard
+
+![Employee Dashboard](employee-dashboard.png)
+
+---
+
+# Author
+
+## Sabita Sau
+
+Aspiring Data Analyst & Full Stack Developer
+
