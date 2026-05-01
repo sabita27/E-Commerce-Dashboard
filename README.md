@@ -97,25 +97,29 @@ Through this project, I gained hands-on experience in:
 
 ## Overview Dashboard
 
-![Overview Dashboard](overview-dashboard.png)
+<img width="1320" height="738" alt="image" src="https://github.com/user-attachments/assets/f91accf5-1255-4650-9bf5-d3ef91483957" />
+
 
 ---
 
 ## Sales Dashboard
 
-![Sales Dashboard](sales-dashboard.png)
+<img width="1317" height="736" alt="image" src="https://github.com/user-attachments/assets/2536bcda-d546-4ce2-af6a-d1a316cd2597" />
+
 
 ---
 
 ## Product Dashboard
 
-![Product Dashboard](product-dashboard.png)
+<img width="1312" height="728" alt="image" src="https://github.com/user-attachments/assets/7168c8e5-924a-4b28-8776-8db0ca26a764" />
+
 
 ---
 
 ## Employee Dashboard
 
-![Employee Dashboard](employee-dashboard.png)
+<img width="1313" height="734" alt="image" src="https://github.com/user-attachments/assets/aa5253de-62f8-4cc4-907b-050e381446c1" />
+
 
 ---
 
