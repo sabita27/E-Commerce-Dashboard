@@ -123,7 +123,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# Developed By
+# Project Developed By
 
 ## Sabita Sau
 
