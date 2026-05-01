@@ -123,9 +123,11 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# Author
+# Developed By
 
 ## Sabita Sau
 
-Aspiring Data Analyst & Full Stack Developer
+GitHub: https://github.com/sabita27
+
+LinkedIn: https://www.linkedin.com/in/sabita-sau
 
